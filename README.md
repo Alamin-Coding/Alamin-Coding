@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md.Al-Amin
+- 👋 Hi, I’m MD. Al-Amin
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning MERN Stack & UI/UX
 - 💞️ I’m looking to collaborate on ...
