@@ -10,7 +10,7 @@ I am a Full-Stack developer with expertise in developing web applications using 
 <h2>Technical Skills</h2>
 <ul>
   <li>Strong proficiency in JavaScript, HTML, and CSS</li>
-  <li>Hands-on experience in building applications using MERN Stack (MongoDB, Express, React, and Node.js)</li>
+  <li>Hands-on experience in building applications using MERN Stack (MongoDB, Express, React, Next js, and Node.js)</li>
   <li>Good understanding of ReactJS and its core concepts such as components, state management, and hooks</li>
   <li>Familiarity with NoSQL databases and experience with MongoDB</li>
   <li>Ability to write clean, organized, and maintainable code</li>
