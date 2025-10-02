@@ -57,6 +57,14 @@ I am a Full-Stack developer with expertise in developing web applications using 
 
 ---
 
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
 ## ☕ Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/yourname](https://buymeacoffee.com/alamin_coding))
 
