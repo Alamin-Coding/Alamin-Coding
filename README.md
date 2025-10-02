@@ -65,7 +65,7 @@ I am a Full-Stack developer with expertise in developing web applications using 
 ---
 
 ## ☕ Support
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/yourname](https://buymeacoffee.com/alamin_coding))
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alamin_coding)
 
 
 <!---
