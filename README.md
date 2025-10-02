@@ -1,8 +1,7 @@
-- 👋 Hi, I’m MD. Al-Amin
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning MERN Stack & UI/UX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AF748&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+MD.+Al-Amin;%F0%9F%8C%B1+I%E2%80%99m+interested+in+learning+new+skills;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+currently+learning+MERN+Stack+%26+UI%2FUX;%F0%9F%91%80+I%E2%80%99m+looking+to+collaborate+on+...;%F0%9F%93%AB+How+to+reach+me+...)](https://git.io/typing-svg)
+
+---
 
 #  Introduction
 I am a Full-Stack developer with expertise in developing web applications using the MERN stack (MongoDB, Express, React, and Node.js). I have experience in creating dynamic and responsive user interfaces using React, handling server-side requests using Express, and interacting with databases using MongoDB. I am also familiar with various front-end and back-end technologies, including HTML, CSS, Bootstrap, Tailwind css, SASS/SCSS JavaScript, and Git.
